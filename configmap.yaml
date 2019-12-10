@@ -10,3 +10,4 @@ data:
   test: success
   test_two: success
   test_cronjob: success
+  test_cronjob-2: success
