@@ -9,3 +9,4 @@ data:
   app: googlepay
   test: success
   test_two: success
+  test_cronjob:success
