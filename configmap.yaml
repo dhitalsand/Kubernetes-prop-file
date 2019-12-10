@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: app-config-git-test
+  name: app-config-git-test-watcher
   namespace: default
 data:
   hello: hello_value
