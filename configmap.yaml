@@ -12,3 +12,4 @@ data:
   test_cronjob: success
   test_cronjob-2: success
   test_cronjob-3: success
+  test_cronjob-4: success
