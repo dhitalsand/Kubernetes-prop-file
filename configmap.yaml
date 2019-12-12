@@ -1,3 +1,3 @@
-webservice.endpoint.transferfund=test
-webservice.endpoint.getbalance=test
-webservice.endpoint.customerinfo=test
+webservice.endpoint.transferfund=test1
+webservice.endpoint.getbalance=test1
+webservice.endpoint.customerinfo=test1
