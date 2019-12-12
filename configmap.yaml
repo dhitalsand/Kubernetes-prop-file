@@ -6,4 +6,4 @@ data:
   application.properties: |-
     webservice.endpoint.transferfund=1
     webservice.endpoint.getbalance=h2
-    webservice.endpoint.customerinfo=3
+    webservice.endpoint.customerinfo=test
