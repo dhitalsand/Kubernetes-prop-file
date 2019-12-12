@@ -1,11 +1,9 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: app-config-git-test-watcher
-  namespace: default
+  name: springboot-kubernetes-example
 data:
-  hello: hello_value
-  name: personname
-  app: googlepay
-  test: yess
-  
+  application.properties: |-
+    webservice.endpoint.transferfund=1
+    webservice.endpoint.getbalance=h2
+    webservice.endpoint.customerinfo=3
