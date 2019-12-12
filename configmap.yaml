@@ -4,6 +4,6 @@ metadata:
   name: springboot-kubernetes-configmap
 data:
   application.properties: |-
-    webservice.endpoint.transferfund=1
-    webservice.endpoint.getbalance=h2
+    webservice.endpoint.transferfund=test
+    webservice.endpoint.getbalance=test
     webservice.endpoint.customerinfo=test
