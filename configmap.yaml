@@ -8,6 +8,4 @@ data:
   name: personname
   app: googlepay
   test: success
-  test_two: success
-  test_cronjob: success
-  test_cronjob_test123: success
+  
